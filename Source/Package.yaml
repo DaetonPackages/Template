@@ -1,0 +1,7 @@
+
+name : example-package
+title : Example Package
+github : DaetonPackages/Template
+version : 0.0.0
+description : A template for Daeton packages.
+license : Unlicense
